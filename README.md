@@ -1,4 +1,5 @@
-Catch the Chicken!
+Catch the Chicken!🐓
+
 Catch the Chicken is a fun and fast-paced arcade game where the player has to catch a chicken that moves around the screen. The game tests your reaction speed and precision, challenging you to catch the chicken as many times as possible before the timer runs out.
 
 Game Description:
