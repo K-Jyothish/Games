@@ -218,6 +218,7 @@ while True:
             save_high_score(highest_score)
 
     else:
+        display_text("Welcome to Chicken Catcher!", (screen_width // 2 - 150, screen_height // 2 - 60))
         display_text("Press 'Enter' to Start", (screen_width // 2 - 100, screen_height // 2 - 20))
         display_text("Press 'P' to Pause", (screen_width // 2 - 100, screen_height // 2 + 10))
 
